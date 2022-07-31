@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-whitlam&label=Profile%20views&color=0e75b6&style=flat" alt="chris-whitlam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chris-whitlam" alt="chris-whitlam" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [chriswhitlam.dev/projects](chriswhitlam.dev/projects)
 
 - 📝 I regularly write articles on [chriswhitlam.dev/blog](chriswhitlam.dev/blog)
