@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-whitlam&label=Profile%20views&color=0e75b6&style=flat" alt="chris-whitlam" /> </p>
 
-- 👨‍💻 All of my projects are available at [chriswhitlam.dev/projects](chriswhitlam.dev/projects)
+- 👨‍💻 All of my projects are available at [https://chriswhitlamdev.netlify.app/projects](https://chriswhitlamdev.netlify.app/projects) 
 
-- 📝 I regularly write articles on [chriswhitlam.dev/blog](chriswhitlam.dev/blog)
+- 📝 I regularly write articles on [https://chriswhitlamdev.netlify.app/blog](https://chriswhitlamdev.netlify.app/blog) 
 
 - 💬 Ask me about **React, Typescript, AWS**
-
-- 📫 How to reach me **contact@chriswhitlam.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
