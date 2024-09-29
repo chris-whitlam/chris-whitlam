@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris Whitam</h1>
+<h1 align="center">Hi, I'm Chris Whitam</h1>
 <h3 align="center">A passionate Web developer keen to learn anything and everything!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-whitlam&label=Profile%20views&color=0e75b6&style=flat" alt="chris-whitlam" /> </p>
